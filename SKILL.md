@@ -255,7 +255,7 @@ except Exception as e:
 6. **Don't modify LXC containers unless explicitly requested**
 7. **Warn before deleting snapshots or VMs**
 
-## Pitfalls & Troubleshooting
+## Troubleshooting & Pitfalls
 
 | Problem | Cause & Fix |
 |---------|-------------|
